@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SPMSpring
 //
-//  Created by Цырендылыкова Эржена on 02.11.2022.
+//  Created by Сампилов Ильдар on 02.11.2022.
 //
 
 import UIKit
